@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.akanework.omnia;
+package com.android.htmlviewer;
 
 import android.app.Activity
 import android.content.ActivityNotFoundException
@@ -32,7 +32,7 @@ import android.webkit.WebResourceResponse
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import android.widget.Toast
-import org.commonmark.html.HtmlRenderer
+import org.commonmark.renderer.html.HtmlRenderer
 import org.commonmark.node.Node
 import org.commonmark.parser.Parser
 import java.io.IOException

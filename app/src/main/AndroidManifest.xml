@@ -19,7 +19,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-     package="org.akanework.omnia">
+     package="com.android.htmlviewer">
 
     <application android:label="@string/app_label"
          android:supportsRtl="true"
